@@ -1,0 +1,7 @@
+[gd_resource type="Resource" load_steps=2 format=3 uid="uid://c073fh28ccqq4"]
+
+[ext_resource type="Script" path="res://Runes/rune.gd" id="1_vw2so"]
+
+[resource]
+script = ExtResource("1_vw2so")
+Name = "Ice"
